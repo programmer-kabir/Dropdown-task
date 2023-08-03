@@ -57,7 +57,7 @@ const divClass = isFirst ? "relative border-2 border-blue-800 rounded-l-full inl
         <button
           type="button"
           onClick={handleToggle}
-          className="inline-flex items-center gap-4 justify-center w-full rounded-md shadow-sm px-4 py-2  text-sm font-medium text-gray-700  "
+          className="inline-flex items-center gap-4 justify-center w-full rounded-md px-4 py-2  text-sm font-medium text-gray-700  "
           id="options-menu"
           aria-haspopup="true"
           aria-expanded="true"
